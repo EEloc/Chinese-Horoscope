@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">Chinese Zodiac</string>
+    <string name="cont_desc">Image Lost</string>
+    <string name="str_title">Chinese Zodiac</string>
+    <string name="str_nrhello">You aren\'t registred yet</string>
+    <string name="str_readhoroscope">Read horoscope</string>
+    <string name="str_abouthoroscope">About Chinese Zodiac</string>
+
+    <string name="str_instruction">Fill the blanks</string>
+    <string name="str_namefield">Name</string>
+    <string name="str_birthdayfield">Birthday</string>
+    <string name="str_accountfield">Account Number</string>
+    <string name="str_emailfield">Email</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="msj_fillblanks">Fill correctly all the fields!</string>
+
+    <string name="str_aboutdescription">
+        Chinese zodiac, or shēngxiào (生肖; lit. born resembling), is represented by 12 zodiac animals. In
+        order, they are the Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster,
+        Dog, and Pig.<br />
+        In Ancient China, for enumerate the years were used the emperors\' names and the Ganzhi
+        System. The first lunar calendar was invented in 2937 b.C.. According to this, each zodiacal
+        sign last 60 years distributed in 5 cycles of 12 years. Since Han\'s dynasty (25-220 a.C.)
+        chinese zodiacal begun to use the 12 animals in order.
+    </string>
+    <string name="str_back">Back</string>
+
+    <string name="str_horoscope">, you are </string>
+    <string name="str_age">Age: </string>
+    <string name="str_ageunity">years</string>
+    <string name="str_srat">a Rat</string>
+    <string name="str_sox">an Ox</string>
+    <string name="str_stiger">a Tiger</string>
+    <string name="str_srabbit">a Rabbit</string>
+    <string name="str_sdragon">a Dragon</string>
+    <string name="str_ssnake">a Snake</string>
+    <string name="str_shorse">a Horse</string>
+    <string name="str_sgoat">a Goat</string>
+    <string name="str_smonkey">a Monkey</string>
+    <string name="str_srooster">a Rooster</string>
+    <string name="str_sdog">a Dog</string>
+    <string name="str_spig">a Pig</string>
+
+    <string name="des_rat">
+        Rats are wisely people, who enjoy being surrounded of family and friends, helping them in
+        everything. Rats are great workers, savers and resource managers.<br/>
+        Lucky numbers: 2, 3<br/>
+        Lucky colors: blue, gold, green
+    </string>
+    <string name="des_ox">
+        Oxes are patient and calm people, also very warm and lovely who command respect. Great
+        workers who enjoy the order and cleaning, and achieve success thanks to their effort. Family
+        is the most important even when they are jealous. Oxes love art. They don\'t like dispute
+        but enjoy being obeyed.
+        <br/>
+        Lucky numbers; 1, 4<br/>
+        Lucky colors: blue, yellow, green
+    </string>
+    <string name="des_tiger">
+        Tigers are very passionate and energetic people. They are very noticeable, adventurers,
+        independent, witty, visceral, and enjoy the fun. Tigers are lifelong friends, even when they
+        always want to be the leader in a group. Whit their couples, they show themselves as the
+        strongest, sexiest and the most seductive, but that behaviour could be excessive.
+        <br/>
+        Lucky numbers; 1, 3, 4<br/>
+        Lucky colors: blue, grey, white, orange
+    </string>
+    <string name="des_rabbit">
+        Rabbits are prudent, intelligent, affable, discreet, anticipatory, attentive and benevolent.
+        That\'s why rabbits are so popular between people. They have very moderate and indulgent
+        character, lovers of the peace and concord. Rabbits hate the war and violence. They enjoy
+        the calm lifestyle, the cuteness and the harmony.
+        <br/>
+        Lucky numbers; 3, 4, 9<br/>
+        Lucky colors: blue, purple, pink, red
+    </string>
+    <string name="des_dragon">
+        China\'s Emperor\'s symbol, dragons are very imaginative, magnanimous, entrepreneur, lucky
+        and mighty. They are strength and vitality fulled. Dragons are very energetic, and if they
+        got mad, they will lose their control; once they are like that, it\'s difficult calm they
+        down, because dragons don\'t use to trust in anyone. They give good advice and are very
+        lucky with money and love. Dragons fall in love so easy and intensely.
+        <br/>
+        Lucky numbers; 1, 6, 7<br/>
+        Lucky colors: gold, silver, grayish, white
+    </string>
+    <string name="des_snake">
+        Snakes are astute people, they know what they want and how to get it. Their conversation is
+        elegant and fluent. They are intense but prudent, are jealous and possessive with their
+        family but loyal. Snakes enjoy pamper their friends and hope the same. If dragons have
+        feelings of disdain or failure, they could be angry for hours, but they are good for keep
+        calm and seem quiet in difficult situations.
+        <br/>
+        Lucky numbers; 2, 8, 9<br/>
+        Lucky colors: red, pale yellow, black
+    </string>
+    <string name="des_horse">
+        Horses are popular, energetic, adventurer, eloquent, impatient, entrepreneur, enthusiast
+        with life, and great lovers and friends. They really love money and traveling. Horses enjoy
+        meeting new people, different cultures, to speak various languages and the are the soul of
+        the party. Horses\' physical attractiveness and beauty make easier to find couple.
+        <br/>
+        Lucky numbers; 1, 4<br/>
+        Lucky colors: blue, yellow, green
+    </string>
+    <string name="des_goat">
+        Goats are creative, artistic, positive, elegant, feminine, affable, merciful, weeping,
+        sensitive, dreamer, proud, and sad. They don\'t chase material wealth and prefer their
+        dreams. They love family, children, home, and keep in contact with nature. Goats are very
+        hard-working, but they don\'t like or deadlines.
+        <br/>
+        Lucky numbers; 3, 4, 9<br/>
+        Lucky colors: green, red, purple
+    </string>
+    <string name="des_monkey">
+        Most human-like animal, monkeys are ingenious, funny, friendly, quick and active minded,
+        comparator, persuasive, sociable, able to face any problem easily, no matter how difficult
+        it is. Their romantic and friendly relationships use to be troubled because they don\'t
+        tolerate that the others don\'t appreciate them. Monkeys are in good health, but they suffer
+        their own excesses.
+        <br/>
+        Lucky numbers; 1, 7, 8<br/>
+        Lucky colors: white, gold, blue
+    </string>
+    <string name="des_rooster">
+        Roosters are attractive and seductive, very talented and appreciated people. They are
+        meticulous, efficient, ordered, observer, selfish, usurer, pragmatic, and very familiar
+        people. They are romantic and stubborn at love, they fight for control their couple.
+        Roosters are very noticeable at public relationships and as artists. They don\'t care too
+        much about their health.
+        <br/>
+        Lucky numbers; 5, 7, 8<br/>
+        Lucky colors: gold, brown, yellow
+    </string>
+    <string name="des_dog">
+        Dogs are hard-workers, honest, reliable, diligent people, with a strong sense of justice and
+        loyalty. They win everyone with their exciting personality, their good humor and great
+        capacity to hear the others\' problems and give good advice. They are really faithful and
+        loyal, but are very jealous with their couple when they aren\'t at home. Jitters are their
+        worst health problem.
+        <br/>
+        Lucky numbers; 3, 4, 9<br/>
+        Lucky colors: green, red, purple
+    </string>
+    <string name="des_pig">
+        Pigs are sincere, honest, reliant, educated, affectioned, serviceable, brave, decided, with
+        great willpower, with no big claims neither vanity, down to earth people. They are friendly,
+        with tasteful and good manners. Pigs are sensual, passionate and patient at love, but until
+        a point. They are very hard-workers but they don\'t enjoy sports, so tend to get fat easily.
+        <br/>
+        Lucky numbers; 2, 5, 8<br/>
+        Lucky colors: yellow, gray, brown, gold
+    </string>
+</resources>
